@@ -1,0 +1,31 @@
+body {
+    background: white;
+    border: 4px double #333;
+}
+
+table {
+    background: white;
+    border: 2px double #333;
+}
+
+div {
+    background: white;
+    border: 2px double #333;
+}
+
+tr {
+    background: white;
+    color: black;
+}
+
+#R1 {
+    background: blue;
+}
+
+#R2 {
+    background: red;
+}
+
+#R3 {
+    background: gray;
+}
